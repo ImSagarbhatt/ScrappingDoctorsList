@@ -1,8 +1,6 @@
 # import the webdriver from selenium
 
 from selenium import webdriver
-from selenium.webdriver.common import keys
-from selenium.webdriver.common.keys import Keys
 import pandas as pd
 from openpyxl import Workbook
 
